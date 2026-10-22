@@ -15,7 +15,7 @@
 - `public/index.html`：网页内容。
 - `public/assets/`：去重后的原图、样式及交互脚本；文件名由内容哈希生成。
 - `public/documents/`：文莱海事局原始公开 PDF。
-- `public/data/source-index.csv`：32 条来源索引。
+- `public/data/source-index.csv`：36 条来源索引。
 - `wrangler.jsonc`：Cloudflare Pages 配置。
 
 ## 本地预览
